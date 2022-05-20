@@ -36,9 +36,10 @@ router.get('/:id', (req, res) => {
     }
   ],
 })
-})
 .then((category) => res.json(category))
 .catch((err) => res.json(err))
+})
+
 
 
 // create new product
