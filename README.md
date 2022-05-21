@@ -16,6 +16,8 @@
  
  A backend that uses express.js APIs, MySQL, and Sequelize for a competetive e-commerce website
 
+ [Guided Walkthrough](https://drive.google.com/file/d/1_SR6Q7wL_UxrrbNZO-0ysVC9HxQ28_XL/view)
+
  ## Installation
 git clone the following repository: 
 
@@ -66,4 +68,4 @@ Upon code review approval, your feature will be merged.
  N/A
 
  ## Questions
- For any questions, please reach me, Ryann Goldberg , at either  and/or my GitHub account, [ryann127](https:/ryann127/github.com/)
+ For any questions, please reach me, Ryann Goldberg, at either  and/or my GitHub account, [ryann127](https:/ryann127/github.com/)
